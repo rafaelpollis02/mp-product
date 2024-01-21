@@ -1,0 +1,10 @@
+br\com\domain\ProductStock.class
+br\com\domain\Product.class
+br\com\integration\SaveProductStock.class
+br\com\resource\ProductResource.class
+META-INF\panache-archive.marker
+br\com\exception\MessageError.class
+br\com\service\ProductService.class
+br\com\exception\BusinessException.class
+br\com\exception\GeneralException.class
+br\com\repository\ProductRepository.class
